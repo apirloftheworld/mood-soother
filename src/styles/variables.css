@@ -1,0 +1,61 @@
+:root {
+  /* ===== Soothing Mode (安抚) Colors ===== */
+  --soothe-primary: #7c8ce0;
+  --soothe-primary-light: #a8b4f0;
+  --soothe-bg-start: #e8eaf6;
+  --soothe-bg-end: #f0f0fa;
+  --soothe-text: #3a3d5c;
+  --soothe-text-secondary: #6b6f8e;
+  --soothe-accent: #c5cae9;
+
+  /* ===== Vent Mode (发泄) Colors ===== */
+  --vent-bg: #1a1a2e;
+  --vent-bg-card: #252540;
+  --vent-primary: #ff6b6b;
+  --vent-accent: #ffd93d;
+  --vent-text: #e8e8f0;
+  --vent-text-secondary: #9999b0;
+
+  /* ===== Good Mood (好心情) Colors ===== */
+  --goodmood-primary: #ffb347;
+  --goodmood-primary-light: #ffcd7a;
+  --goodmood-bg-start: #fff8e7;
+  --goodmood-bg-end: #ffecd2;
+  --goodmood-text: #5c3d2e;
+  --goodmood-text-secondary: #8b6f5e;
+  --goodmood-accent: #ff8a80;
+
+  /* ===== Spacing ===== */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+  --space-3xl: 64px;
+
+  /* ===== Animation Durations ===== */
+  --duration-fast: 0.2s;
+  --duration-normal: 0.4s;
+  --duration-slow: 0.8s;
+  --duration-breathing-inhale: 4s;
+  --duration-breathing-hold: 7s;
+  --duration-breathing-exhale: 8s;
+
+  /* ===== Border Radius ===== */
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --radius-round: 50%;
+
+  /* ===== Shadows ===== */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.12);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.16);
+
+  /* ===== Z-index ===== */
+  --z-base: 1;
+  --z-overlay: 10;
+  --z-modal: 100;
+  --z-toast: 200;
+}
